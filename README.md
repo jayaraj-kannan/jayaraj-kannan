@@ -32,7 +32,7 @@ side-quests: Blogging ✍️  |  Hackathons 🏆  |  Mentoring 🌱
 status:      Always leveling up 🔼
 ```
 
-> 🎯 **Current Mission:** Exploring coding in the AI era — building agents, mastering AI tools, and sharing every learning along the way.
+> 🎯 **Current Mission:** Exploring coding in the AI era — building agents, exploring Sarvam API , mastering AI tools, and sharing every learning along the way.
 
 ---
 
